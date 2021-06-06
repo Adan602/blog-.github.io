@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+
+    background-color: black;
+
+    color: white;
+}
+
+#spine {
+
+    height: 400px;
+    width: 600px;
+}
+
+
+#second {
+
+    height: 400px;
+    width: 600px;
+}
+
+#third {
+
+    height: 400px;
+    width: 600px;
+}
+
+#fourth {
+
+    height: 400px;
+    width: 600px;
+}
+
+div {
+    color: white;
+
+    font-size: 40px;
+}
+
+#trees {
+    color: greenyellow;
+
+    font-size: 30px;
+}
